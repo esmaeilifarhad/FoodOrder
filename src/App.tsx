@@ -20,6 +20,7 @@ class App extends React.Component<{}, {}> {
 
     return (
       <div className="App">
+        <span>I am Farhad</span>
         Hello world!
       </div>
     );
